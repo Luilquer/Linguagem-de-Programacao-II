@@ -1,0 +1,16 @@
+//COMO PASSAR ARGUMETOS DO SO PARA O PROGRAMA, mas tem que configurar
+   /* cout << "Number of arguments is " << argc << endl;
+
+    for(unsigned int i =0; i<argc; i++)
+    {
+
+        cout << "argument # " << i+1 << " is: " << endl;
+    }*/
+
+   /* if(argc != 2)
+    {
+        cout << "Error, input should be <exec> <file.txt>" << endl;
+
+        return 1;
+
+    }*/

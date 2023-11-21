@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1601060842 source:c:\users\carlos luilquer\documents\ufsc\turmas 01\linguagem de programação ii dec 7532\unidade i\trabalhos\classes\main.cpp
+	"dicionario.hpp"
+
+1601062236 c:\users\carlos luilquer\documents\ufsc\turmas 01\linguagem de programação ii dec 7532\unidade i\trabalhos\classes\dicionario.hpp
+	<iostream>
+	<vector>
+	<fstream>
+

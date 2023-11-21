@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1584105563 source:c:\users\carlos luilquer\desktop\aula01-dict\main.cpp
+	"dict.hpp"
+
+1584105413 c:\users\carlos luilquer\desktop\aula01-dict\dict.hpp
+	<iostream>
+	<stdlib.h>
+	<fstream>
+	<string>
+
+1584105670 source:c:\users\carlos luilquer\desktop\aula01-dict\dict.cpp
+	"dict.hpp"
+
+1584128095 source:c:\users\carlos luilquer\documents\ufsc\turmas 01\linguagem de programação ii dec 7532\unidade i\exercicio 1 - sala\aula01-dict\dict.cpp
+	"dict.hpp"
+
+1584127945 c:\users\carlos luilquer\documents\ufsc\turmas 01\linguagem de programação ii dec 7532\unidade i\exercicio 1 - sala\aula01-dict\dict.hpp
+	<iostream>
+	<stdlib.h>
+	<fstream>
+	<string>
+	<vector>
+
+1584128546 source:c:\users\carlos luilquer\documents\ufsc\turmas 01\linguagem de programação ii dec 7532\unidade i\exercicio 1 - sala\aula01-dict\main.cpp
+	"dict.hpp"
+
